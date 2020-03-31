@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "89822120969",
+    "firebase_url": "https://amigos-flutter.firebaseio.com",
+    "project_id": "amigos-flutter",
+    "storage_bucket": "amigos-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89822120969:android:2fd80814b6fefa71",
+        "android_client_info": {
+          "package_name": "com.example.amigos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89822120969-6fgo1igd4mvajcltifigksgn9dc7o9t6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.amigos",
+            "certificate_hash": "046c8a01d837e890ccc12c3cc45be68d2247f2e2"
+          }
+        },
+        {
+          "client_id": "89822120969-2qnahckn6luqimcqmhvfhgjet1m454um.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC23nelbMQqjSaMBFCO9_dkE0IHAkC_qWs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89822120969-2qnahckn6luqimcqmhvfhgjet1m454um.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
